@@ -1,8 +1,24 @@
 {
-    "todos":[
-        {
-            "id": 1,
-            "content":"json-server"
-        }
-    ]
+  "todos": [
+    {
+      "id": 1,
+      "content": "json-server"
+    },
+    {
+      "id": 2,
+      "content": "MongoDB"
+    },
+    {
+      "id": 3,
+      "content": "Express"
+    },
+    {
+      "id": 4,
+      "content": "Node.js"
+    },
+    {
+      "id": 5,
+      "content": "react.js"
+    }
+  ]
 }
